@@ -13,7 +13,6 @@ from pypdf import PdfReader
 from dotenv import load_dotenv
 import warnings
 
-from transformers import pipeline
 warnings.filterwarnings('ignore')
 
 
